@@ -1,8 +1,8 @@
 ### olá! Eu sou Bratriz Abreu
 
 
-- 🔭 Hoje trabalho com administração de sites Institucionais
-- 🌱 Estudando css, html e php
+- 🔭 Estagiária na Compass UOL
+- 🌱 Estudando desenvolvimento front-end com foco em React e contexto da AWS Cloud.
 - 😄 Pronouns: ela/dela
 ## 
 <div> 
