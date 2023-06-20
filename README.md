@@ -1,4 +1,4 @@
-### olá! Eu sou Bratriz Abreu
+### olá! Eu sou Beatriz Abreu
 
 
 - 🔭 Estagiária na Compass UOL
