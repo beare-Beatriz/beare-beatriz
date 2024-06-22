@@ -1,7 +1,7 @@
 ### olá! Eu sou Beatriz Abreu
 
 
-- 🔭 Estagiária na Compass UOL
+- 🔭 
 - 🌱 Estudando desenvolvimento front-end com foco em React e contexto da AWS Cloud.
 - 😄 Pronouns: ela/dela
 ## 
