@@ -14,7 +14,10 @@
 
 <br clear="both">
 
+
 <img src="https://raw.githubusercontent.com/beare-beatriz/beare-beatriz/output/snake.svg" alt="Snake animation" />
+
+###
 
 ###
 
