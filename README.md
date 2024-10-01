@@ -23,7 +23,7 @@
 ###
 
 <div align="left">
-  <a h ref="https://www.instagram.com/beare_beatriz/">
+  <a href="https://www.instagram.com/beare_beatriz/">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="mailto:abreu2001beatriz@gmail.com">
